@@ -1,0 +1,15 @@
+.newproject_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3em;
+}
+
+.newproject_container h1 {
+    margin-bottom: .5em;
+}
+
+.newproject_container p {
+    color: #7b7b7b;
+}

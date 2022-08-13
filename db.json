@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Projeto atualizado",
+      "budget": "500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "projeto 2",
+      "budget": "40000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 99,
+      "services": [
+        {
+          "name": "roberto",
+          "cost": "99",
+          "description": "balada",
+          "id": "b631f0af-4df7-41d8-a6be-558e422bab91"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
