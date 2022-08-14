@@ -7,16 +7,21 @@ function Footer() {
         <footer className={styles.footer}>
             <ul className={styles.list_social}>
                 <li>
-                    <FaGithub />
+                    <a href="https://github.com/Roberto-Vinicius" target="_blank">
+                        <FaGithub />
+                    </a>
                 </li>
                 <li>
-                    <FaInstagram />
+                    <a href="https://www.instagram.com/r_suiciniv/" target="_blank">
+                        <FaInstagram />
+                    </a>
                 </li>
                 <li>
-                    <FaLinkedin />
+                    <a href="https://www.linkedin.com/in/robertoviniciusd" target="_blank">
+                        <FaLinkedin />
+                    </a>
                 </li>
             </ul>
-            <p><span>Costs</span> &copy; 2022</p>
             <p><strong>Desenvolvido por Roberto Vinicius</strong></p>
         </footer>
     )

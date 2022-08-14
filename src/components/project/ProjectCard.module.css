@@ -4,7 +4,7 @@
     padding: 1em;
     border: 1px solid #7a7a7a;
     border-radius: 5px;
-
+    margin: 0 auto;
 }
 
 .project_card h4 {
@@ -90,21 +90,4 @@
     color: #ffbb33;
 }
 
-@media (max-width: 900px) {
-    .project_card_actions {
-        flex-direction: column;
-        gap: 5px;
-    }
-}
 
-@media (max-width: 600px) {
-    .category_text span {
-        width: 40px;
-        flex-wrap: wrap;
-    }
-
-    .project_card_actions {
-        flex-direction: column;
-        gap: 5px;
-    }
-}

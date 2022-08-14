@@ -1,0 +1,27 @@
+.contact_container {
+    width: 100%;
+    text-align: center;
+    padding-top: 2.5em;
+}
+
+.contact_container ul {
+    padding-top: 2.5em;
+    list-style: none;
+}
+
+.contact_container li {
+    padding-bottom: 2em;
+}
+
+.contact_container a {
+    color: #000;
+}
+
+.contact_container a:hover {
+    color: #ffbb33;
+}
+
+.contact_container svg {
+    font-size: 3em;
+    cursor: pointer;
+}

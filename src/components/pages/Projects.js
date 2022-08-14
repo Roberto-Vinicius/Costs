@@ -20,6 +20,7 @@ function Projects() {
         message = location.state.message
     }
 
+
     useEffect(() => {
         setTimeout(() => {
             fetch('http://localhost:5000/projects', {

@@ -1,7 +1,7 @@
 .footer {
     background-color: #222;
     color: #fff;
-    padding: 1.9em;
+    padding: 1.5em;
     text-align: center;
 }
 
@@ -12,7 +12,11 @@
     gap: 1em;
 }
 
-.list_social li:hover {
+.list_social a {
+    color: #fff;
+}
+
+.list_social a:hover {
     color: #ffbb33;
 }
 

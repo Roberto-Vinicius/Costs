@@ -1,33 +1,39 @@
 {
   "projects": [
     {
-      "name": "Projeto atualizado",
-      "budget": "500",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "projeto 2",
-      "budget": "40000",
+      "name": "Estudos",
+      "budget": "1000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 99,
+      "cost": 249,
       "services": [
         {
-          "name": "roberto",
-          "cost": "99",
-          "description": "balada",
-          "id": "b631f0af-4df7-41d8-a6be-558e422bab91"
+          "name": "Livros",
+          "cost": "200",
+          "description": "Livros de logica de programação",
+          "id": "7204f38c-16f5-4cc0-857f-db170952b82e"
+        },
+        {
+          "name": "teee",
+          "cost": "49",
+          "description": "test",
+          "id": "3e3ab5d9-7f27-4708-9b51-6f04d603931d"
         }
       ],
-      "id": 2
+      "id": 3
+    },
+    {
+      "name": "teste",
+      "budget": "50",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
